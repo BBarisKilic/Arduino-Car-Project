@@ -1,2 +1,2 @@
 # Arduino-Car-Project
-It is an example arduino car project for ArduBlu.
+It is an example Arduino car project for ArduBlu.
